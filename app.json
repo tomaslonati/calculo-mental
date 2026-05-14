@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Cálculo Mental",
+    "slug": "calculo-mental",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0F172A",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.tomaslonati.calculomental"
+    },
+    "android": {
+      "package": "com.tomaslonati.calculomental",
+      "adaptiveIcon": {
+        "backgroundColor": "#0F172A"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": ["expo-font"]
+  }
+}
