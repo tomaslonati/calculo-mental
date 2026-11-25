@@ -2,6 +2,8 @@
 
 > **English summary.** Mental-math training mobile app (course project, *Desarrollo de Apps*, UADE): short rounds, four game modes (classic, true/false, multiple choice, time attack), three difficulty levels, scoring with a speed bonus, local progress and stats, and optional haptics and sound. Built with React Native + Expo SDK 54, TypeScript, Zustand, AsyncStorage, react-native-svg and Reanimated. Works fully offline.
 
+<p align="center"><img src="docs/screens.png" alt="Home, mode selection and a multiple-choice round" width="100%"></p>
+
 App móvil para entrenar cálculo mental. La idea: rondas cortas de operaciones, varios modos de juego, dificultad configurable y persistencia local del progreso. Hecha con React Native + Expo Go, TypeScript, sin backend y sin red.
 
 Es la entrega de la actividad **Desafío Cálculo Mental** de la materia Desarrollo de Apps. Está pensada para correr en celular con Expo Go (no usa módulos nativos que requieran un dev client).
